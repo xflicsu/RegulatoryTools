@@ -1,7 +1,7 @@
 # RegulatoryTools
 Collection of tools dealing with to regulatory sequencing data sets
 
-## Mutation in ChIP-Seq (allele specific binding)
+## Cis‐rSNPs--Mutation in ChIP-Seq (allele specific binding)
 - [GERV](https://github.com/xflicsu/GERV)
 - [BaalChIP](https://bioconductor.org/packages/release/bioc/html/BaalChIP.html)
 - [AlleleSeq](http://alleleseq.gersteinlab.org/)
