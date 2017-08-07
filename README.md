@@ -11,3 +11,5 @@ Collection of tools dealing with to regulatory sequencing data sets
 - [motifBreakR](http://simon-coetzee.github.io/motifBreakR/)
 ## Other tools
 - [SNPsplit](https://github.com/FelixKrueger/SNPsplit)
+## Experience
+- [Kai Fu](https://www.pellegrini.mcdb.ucla.edu/pellegrini/pellegrinilabscps/SCP_chipseq.pdf)
